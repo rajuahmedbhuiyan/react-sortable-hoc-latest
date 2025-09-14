@@ -1,13 +1,13 @@
 {
   "name": "react-sortable-hoc-latest",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "Set of higher-order components to turn any list into a sortable, touch-friendly, animated list. Updated for React 18 support.",
   "author": {
-    "name": "Clauderic Demers",
-    "email": "me@ced.io"
+    "name": "Raju Ahmed Bhuiyan",
+    "email": "rajubhuiyaann@gmail.com"
   },
-  "user": "clauderic",
-  "homepage": "https://github.com/clauderic/react-sortable-hoc",
+  "user": "rajuahmedbhuiyan",
+  "homepage": "https://github.com/rajuahmedbhuiyan/react-sortable-hoc-latest",
   "source": "src/index.js",
   "main": "dist/react-sortable-hoc-latest.js",
   "umd:main": "dist/react-sortable-hoc-latest.umd.js",
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clauderic/react-sortable-hoc.git"
+    "url": "https://github.com/rajuahmedbhuiyan/react-sortable-hoc-latest.git"
   },
   "bugs": {
-    "url": "https://github.com/clauderic/react-sortable-hoc/issues"
+    "url": "https://github.com/rajuahmedbhuiyan/react-sortable-hoc-latest/issues"
   },
   "keywords": [
     "react",
