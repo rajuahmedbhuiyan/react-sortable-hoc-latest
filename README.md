@@ -18,9 +18,8 @@
 [![npm downloads](https://img.shields.io/npm/dm/react-sortable-hoc-latest.svg)](https://www.npmjs.com/package/react-sortable-hoc-latest)
 [![license](https://img.shields.io/github/license/rajuahmedbhuiyan/react-sortable-hoc-latest.svg?maxAge=2592000)](https://github.com/rajuahmedbhuiyan/react-sortable-hoc-latest/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/rajuahmedbhuiyan/react-sortable-hoc-latest.svg)](https://github.com/rajuahmedbhuiyan/react-sortable-hoc-latest)
-![gzip size](http://img.badgesize.io/https://npmcdn.com/react-sortable-hoc-latest/dist/react-sortable-hoc-latest.umd.min.js?compression=gzip)
-
-### Examples available here: <a href="https://rajuahmedbhuiyan.github.io/react-sortable-hoc-latest/">https://rajuahmedbhuiyan.github.io/react-sortable-hoc-latest/</a>
+ 
+ 
 
 ## Features
 
@@ -213,10 +212,6 @@ If believe you've found an issue, please [report it](https://github.com/rajuahme
 
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/rajuahmedbhuiyan/react-sortable-hoc-latest/main?workspaceId=ws_BrZR23sXiCaWiBM6nWSnRk)
 
-## Asking for help
+ 
 
-Please do not use the issue tracker for personal support requests. Instead, use [GitHub Discussions](https://github.com/rajuahmedbhuiyan/react-sortable-hoc-latest/discussions) or StackOverflow.
-
-## Contributions
-
-Yes please! Feature requests / pull requests are welcome.
+ 
