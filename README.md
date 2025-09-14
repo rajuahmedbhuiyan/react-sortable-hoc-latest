@@ -4,6 +4,10 @@
 >
 > While [**@dnd-kit**](https://github.com/clauderic/dnd-kit) is recommended for new projects, this updated version ensures existing projects can continue using `react-sortable-hoc` with React 18.
 
+> **Latest Version**
+>
+> This is the latest version of react-sortable-hoc (v2.0.0), providing the most up-to-date features and React 18 compatibility.
+
 <a href="https://github.com/clauderic/dnd-kit"><img alt="Visit @dnd-kit github repository" src=".github/assets/dnd-kit-banner.svg" /></a>
 
 # <img src=".github/assets/react-sortable-hoc-logo.png" width="400" alt="React Sortable HOC" />
