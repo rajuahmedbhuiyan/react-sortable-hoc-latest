@@ -2,7 +2,7 @@ import * as React from 'react';
 import {findDOMNode} from 'react-dom';
 import invariant from 'invariant';
 
-import {provideDisplayName} from '../utils';
+import {provideDisplayName} from '../utils.js';
 
 export default function sortableHandle(
   WrappedComponent,

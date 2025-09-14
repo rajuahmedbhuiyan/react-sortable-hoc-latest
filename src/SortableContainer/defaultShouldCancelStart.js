@@ -1,4 +1,4 @@
-import {NodeType, closest} from '../utils';
+import {NodeType, closest} from '../utils.js';
 
 export default function defaultShouldCancelStart(event) {
   // Cancel sorting if the event target is an `input`, `textarea`, `select` or `option`

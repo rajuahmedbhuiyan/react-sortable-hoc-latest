@@ -2,9 +2,9 @@ import * as React from 'react';
 import PropTypes from 'prop-types';
 import {findDOMNode} from 'react-dom';
 import invariant from 'invariant';
-import {SortableContext} from '../SortableContainer';
+import {SortableContext} from '../SortableContainer/index.js';
 
-import {provideDisplayName, omit} from '../utils';
+import {provideDisplayName, omit} from '../utils.js';
 
 const propTypes = {
   index: PropTypes.number.isRequired,

@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import invariant from 'invariant';
 
-import {KEYCODE} from '../utils';
+import {KEYCODE} from '../utils.js';
 import defaultGetHelperDimensions from './defaultGetHelperDimensions';
 import defaultShouldCancelStart from './defaultShouldCancelStart';
 

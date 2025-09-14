@@ -2,8 +2,8 @@ import * as React from 'react';
 import {findDOMNode} from 'react-dom';
 import invariant from 'invariant';
 
-import Manager from '../Manager';
-import {isSortableHandle} from '../SortableHandle';
+import Manager from '../Manager/index.js';
+import {isSortableHandle} from '../SortableHandle/index.js';
 
 import {
   cloneNode,
@@ -27,7 +27,7 @@ import {
   getScrollAdjustedBoundingClientRect,
 } from '../utils';
 
-import AutoScroller from '../AutoScroller';
+import AutoScroller from '../AutoScroller/index.js';
 import {
   defaultProps,
   omittedProps,
